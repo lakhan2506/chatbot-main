@@ -35,13 +35,10 @@ const Signup = () => {
       setFormData({ username: "", password: "", confirmPassword: "" });
   
       if (response.data.message === "User created successfully" || response.data.message === "Signup successful!") {
-        // Automatically log the user in by saving the user data to localStorage
         localStorage.setItem("userId", response.data.userId);
-        // Assuming the backend returns a token upon signup (you may need to adjust this)
         localStorage.setItem("authToken", response.data.token); 
   
-        // Redirect to home page
-        navigate("/"); // Redirecting to the home page
+        navigate("/"); 
       } else {
         setError("Something went wrong.");
       }

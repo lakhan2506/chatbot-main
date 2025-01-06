@@ -1,29 +1,23 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
-import { BrowserRouter as Router, Routes, Route, Navigate } from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route} from "react-router-dom";
 import Navbar from "./components/Navbar";
 import Home from "./components/Home";
 import ChatInterface from "./components/ChatInterface";
 import Login from "./components/Login";
 import Signup from "./components/Signup";
+import ProtectedRoute from "./components/ProtectedRoute";
 
 function App() {
-    const [isUserLoggedIn, setIsUserLoggedIn] = useState(false);
     const [chatHistory, setChatHistory] = useState([]);
 
     useEffect(() => {
         const token = localStorage.getItem("authToken");
-        const userId = localStorage.getItem("userId"); 
-        
-        if (token) {
-            setIsUserLoggedIn(true);
-        } else {
-            setIsUserLoggedIn(false);
-        }
-        console.log(token);
+        const userId = localStorage.getItem("userId");
+
         if (userId && token) {
             axios
-                .get(`http://localhost:5000/api/chat/history/${userId}`)
+                .get(`https://chatbot-main-60na.onrender.com/api/chat/history/${userId}`)
                 .then((response) => {
                     setChatHistory(response.data);
                 })
@@ -43,11 +37,9 @@ function App() {
                 <Route
                     path="/chat"
                     element={
-                        isUserLoggedIn ? (
+                        <ProtectedRoute>
                             <ChatInterface chatHistory={chatHistory} />
-                        ) : (
-                            <Navigate to="/login" />
-                        )
+                        </ProtectedRoute>
                     }
                 />
             </Routes>
