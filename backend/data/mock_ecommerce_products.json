@@ -1,0 +1,602 @@
+[
+    {
+        "name": "Instant Pot Duo Plus Variant 1",
+        "category": "Home Appliances",
+        "description": "Versatile pressure cooker.",
+        "price": 130
+    },
+    {
+        "name": "Google Pixel 7 Variant 2",
+        "category": "Electronics",
+        "description": "Latest Google flagship phone.",
+        "price": 599
+    },
+    {
+        "name": "Instant Pot Duo Plus Variant 3",
+        "category": "Home Appliances",
+        "description": "Versatile pressure cooker.",
+        "price": 130
+    },
+    {
+        "name": "NordicTrack Treadmill Variant 4",
+        "category": "Fitness",
+        "description": "High-quality treadmill for home gyms.",
+        "price": 1200
+    },
+    {
+        "name": "HP Spectre x360 Variant 5",
+        "category": "Laptops",
+        "description": "Convertible laptop with a touchscreen.",
+        "price": 1200
+    },
+    {
+        "name": "Adidas Ultraboost Variant 6",
+        "category": "Fashion",
+        "description": "Comfortable running shoes.",
+        "price": 180
+    },
+    {
+        "name": "Women's Summer Dress Variant 7",
+        "category": "Fashion",
+        "description": "Light and breathable summer wear.",
+        "price": 60
+    },
+    {
+        "name": "Philips Air Fryer XXL Variant 8",
+        "category": "Home Appliances",
+        "description": "Large capacity air fryer.",
+        "price": 300
+    },
+    {
+        "name": "Samsung Family Hub Refrigerator Variant 9",
+        "category": "Home Appliances",
+        "description": "Smart fridge with touchscreen display.",
+        "price": 2800
+    },
+    {
+        "name": "Herschel Backpack Variant 10",
+        "category": "Fashion",
+        "description": "Durable and stylish backpack.",
+        "price": 100
+    },
+    {
+        "name": "Adidas Ultraboost Variant 11",
+        "category": "Fashion",
+        "description": "Comfortable running shoes.",
+        "price": 180
+    },
+    {
+        "name": "Lenovo ThinkPad X1 Variant 12",
+        "category": "Laptops",
+        "description": "Durable and reliable business laptop.",
+        "price": 1800
+    },
+    {
+        "name": "Lenovo ThinkPad X1 Variant 13",
+        "category": "Laptops",
+        "description": "Durable and reliable business laptop.",
+        "price": 1800
+    },
+    {
+        "name": "TRX Suspension Trainer Variant 14",
+        "category": "Fitness",
+        "description": "Portable home gym system.",
+        "price": 160
+    },
+    {
+        "name": "NordicTrack Treadmill Variant 15",
+        "category": "Fitness",
+        "description": "High-quality treadmill for home gyms.",
+        "price": 1200
+    },
+    {
+        "name": "Instant Pot Duo Plus Variant 16",
+        "category": "Home Appliances",
+        "description": "Versatile pressure cooker.",
+        "price": 130
+    },
+    {
+        "name": "Yoga Mat Pro Variant 17",
+        "category": "Fitness",
+        "description": "Non-slip and extra thick yoga mat.",
+        "price": 80
+    },
+    {
+        "name": "Men's Leather Jacket Variant 18",
+        "category": "Fashion",
+        "description": "Stylish black leather jacket.",
+        "price": 200
+    },
+    {
+        "name": "Women's Summer Dress Variant 19",
+        "category": "Fashion",
+        "description": "Light and breathable summer wear.",
+        "price": 60
+    },
+    {
+        "name": "MacBook Pro 16-inch Variant 20",
+        "category": "Laptops",
+        "description": "Apple's powerful professional laptop.",
+        "price": 2400
+    },
+    {
+        "name": "Atomic Habits Variant 21",
+        "category": "Books",
+        "description": "A guide to building good habits and breaking bad ones.",
+        "price": 20
+    },
+    {
+        "name": "MacBook Pro 16-inch Variant 22",
+        "category": "Laptops",
+        "description": "Apple's powerful professional laptop.",
+        "price": 2400
+    },
+    {
+        "name": "Men's Leather Jacket Variant 23",
+        "category": "Fashion",
+        "description": "Stylish black leather jacket.",
+        "price": 200
+    },
+    {
+        "name": "MacBook Pro 16-inch Variant 24",
+        "category": "Laptops",
+        "description": "Apple's powerful professional laptop.",
+        "price": 2400
+    },
+    {
+        "name": "The Great Gatsby Variant 25",
+        "category": "Books",
+        "description": "Classic novel by F. Scott Fitzgerald.",
+        "price": 15
+    },
+    {
+        "name": "NordicTrack Treadmill Variant 26",
+        "category": "Fitness",
+        "description": "High-quality treadmill for home gyms.",
+        "price": 1200
+    },
+    {
+        "name": "Sony WH-1000XM5 Variant 27",
+        "category": "Electronics",
+        "description": "Premium noise-canceling headphones.",
+        "price": 399
+    },
+    {
+        "name": "MacBook Pro 16-inch Variant 28",
+        "category": "Laptops",
+        "description": "Apple's powerful professional laptop.",
+        "price": 2400
+    },
+    {
+        "name": "TRX Suspension Trainer Variant 29",
+        "category": "Fitness",
+        "description": "Portable home gym system.",
+        "price": 160
+    },
+    {
+        "name": "1984 Variant 30",
+        "category": "Books",
+        "description": "Dystopian novel by George Orwell.",
+        "price": 18
+    },
+    {
+        "name": "iPhone 13 Variant 31",
+        "category": "Electronics",
+        "description": "Latest Apple smartphone.",
+        "price": 999
+    },
+    {
+        "name": "Bowflex Adjustable Dumbbells Variant 32",
+        "category": "Fitness",
+        "description": "Compact and versatile dumbbells.",
+        "price": 400
+    },
+    {
+        "name": "Atomic Habits Variant 33",
+        "category": "Books",
+        "description": "A guide to building good habits and breaking bad ones.",
+        "price": 20
+    },
+    {
+        "name": "Dyson V15 Detect Variant 34",
+        "category": "Home Appliances",
+        "description": "Powerful cordless vacuum cleaner.",
+        "price": 750
+    },
+    {
+        "name": "Instant Pot Duo Plus Variant 35",
+        "category": "Home Appliances",
+        "description": "Versatile pressure cooker.",
+        "price": 130
+    },
+    {
+        "name": "Dyson V15 Detect Variant 36",
+        "category": "Home Appliances",
+        "description": "Powerful cordless vacuum cleaner.",
+        "price": 750
+    },
+    {
+        "name": "Philips Air Fryer XXL Variant 37",
+        "category": "Home Appliances",
+        "description": "Large capacity air fryer.",
+        "price": 300
+    },
+    {
+        "name": "To Kill a Mockingbird Variant 38",
+        "category": "Books",
+        "description": "Classic novel by Harper Lee.",
+        "price": 25
+    },
+    {
+        "name": "Samsung Family Hub Refrigerator Variant 39",
+        "category": "Home Appliances",
+        "description": "Smart fridge with touchscreen display.",
+        "price": 2800
+    },
+    {
+        "name": "Yoga Mat Pro Variant 40",
+        "category": "Fitness",
+        "description": "Non-slip and extra thick yoga mat.",
+        "price": 80
+    },
+    {
+        "name": "Adidas Ultraboost Variant 41",
+        "category": "Fashion",
+        "description": "Comfortable running shoes.",
+        "price": 180
+    },
+    {
+        "name": "Samsung Family Hub Refrigerator Variant 42",
+        "category": "Home Appliances",
+        "description": "Smart fridge with touchscreen display.",
+        "price": 2800
+    },
+    {
+        "name": "Yoga Mat Pro Variant 43",
+        "category": "Fitness",
+        "description": "Non-slip and extra thick yoga mat.",
+        "price": 80
+    },
+    {
+        "name": "Atomic Habits Variant 44",
+        "category": "Books",
+        "description": "A guide to building good habits and breaking bad ones.",
+        "price": 20
+    },
+    {
+        "name": "To Kill a Mockingbird Variant 45",
+        "category": "Books",
+        "description": "Classic novel by Harper Lee.",
+        "price": 25
+    },
+    {
+        "name": "MacBook Pro 16-inch Variant 46",
+        "category": "Laptops",
+        "description": "Apple's powerful professional laptop.",
+        "price": 2400
+    },
+    {
+        "name": "The Great Gatsby Variant 47",
+        "category": "Books",
+        "description": "Classic novel by F. Scott Fitzgerald.",
+        "price": 15
+    },
+    {
+        "name": "Lenovo ThinkPad X1 Variant 48",
+        "category": "Laptops",
+        "description": "Durable and reliable business laptop.",
+        "price": 1800
+    },
+    {
+        "name": "Men's Leather Jacket Variant 49",
+        "category": "Fashion",
+        "description": "Stylish black leather jacket.",
+        "price": 200
+    },
+    {
+        "name": "To Kill a Mockingbird Variant 50",
+        "category": "Books",
+        "description": "Classic novel by Harper Lee.",
+        "price": 25
+    },
+    {
+        "name": "Atomic Habits Variant 51",
+        "category": "Books",
+        "description": "A guide to building good habits and breaking bad ones.",
+        "price": 20
+    },
+    {
+        "name": "Adidas Ultraboost Variant 52",
+        "category": "Fashion",
+        "description": "Comfortable running shoes.",
+        "price": 180
+    },
+    {
+        "name": "Samsung Family Hub Refrigerator Variant 53",
+        "category": "Home Appliances",
+        "description": "Smart fridge with touchscreen display.",
+        "price": 2800
+    },
+    {
+        "name": "Google Pixel 7 Variant 54",
+        "category": "Electronics",
+        "description": "Latest Google flagship phone.",
+        "price": 599
+    },
+    {
+        "name": "Adidas Ultraboost Variant 55",
+        "category": "Fashion",
+        "description": "Comfortable running shoes.",
+        "price": 180
+    },
+    {
+        "name": "Samsung Galaxy S22 Variant 56",
+        "category": "Electronics",
+        "description": "Newest Samsung phone.",
+        "price": 899
+    },
+    {
+        "name": "Google Pixel 7 Variant 57",
+        "category": "Electronics",
+        "description": "Latest Google flagship phone.",
+        "price": 599
+    },
+    {
+        "name": "HP Spectre x360 Variant 58",
+        "category": "Laptops",
+        "description": "Convertible laptop with a touchscreen.",
+        "price": 1200
+    },
+    {
+        "name": "MacBook Pro 16-inch Variant 59",
+        "category": "Laptops",
+        "description": "Apple's powerful professional laptop.",
+        "price": 2400
+    },
+    {
+        "name": "Sony WH-1000XM5 Variant 60",
+        "category": "Electronics",
+        "description": "Premium noise-canceling headphones.",
+        "price": 399
+    },
+    {
+        "name": "HP Spectre x360 Variant 61",
+        "category": "Laptops",
+        "description": "Convertible laptop with a touchscreen.",
+        "price": 1200
+    },
+    {
+        "name": "MacBook Pro 16-inch Variant 62",
+        "category": "Laptops",
+        "description": "Apple's powerful professional laptop.",
+        "price": 2400
+    },
+    {
+        "name": "Herschel Backpack Variant 63",
+        "category": "Fashion",
+        "description": "Durable and stylish backpack.",
+        "price": 100
+    },
+    {
+        "name": "Samsung Family Hub Refrigerator Variant 64",
+        "category": "Home Appliances",
+        "description": "Smart fridge with touchscreen display.",
+        "price": 2800
+    },
+    {
+        "name": "Yoga Mat Pro Variant 65",
+        "category": "Fitness",
+        "description": "Non-slip and extra thick yoga mat.",
+        "price": 80
+    },
+    {
+        "name": "NordicTrack Treadmill Variant 66",
+        "category": "Fitness",
+        "description": "High-quality treadmill for home gyms.",
+        "price": 1200
+    },
+    {
+        "name": "The Great Gatsby Variant 67",
+        "category": "Books",
+        "description": "Classic novel by F. Scott Fitzgerald.",
+        "price": 15
+    },
+    {
+        "name": "1984 Variant 68",
+        "category": "Books",
+        "description": "Dystopian novel by George Orwell.",
+        "price": 18
+    },
+    {
+        "name": "MacBook Pro 16-inch Variant 69",
+        "category": "Laptops",
+        "description": "Apple's powerful professional laptop.",
+        "price": 2400
+    },
+    {
+        "name": "NordicTrack Treadmill Variant 70",
+        "category": "Fitness",
+        "description": "High-quality treadmill for home gyms.",
+        "price": 1200
+    },
+    {
+        "name": "Herschel Backpack Variant 71",
+        "category": "Fashion",
+        "description": "Durable and stylish backpack.",
+        "price": 100
+    },
+    {
+        "name": "1984 Variant 72",
+        "category": "Books",
+        "description": "Dystopian novel by George Orwell.",
+        "price": 18
+    },
+    {
+        "name": "Samsung Family Hub Refrigerator Variant 73",
+        "category": "Home Appliances",
+        "description": "Smart fridge with touchscreen display.",
+        "price": 2800
+    },
+    {
+        "name": "Adidas Ultraboost Variant 74",
+        "category": "Fashion",
+        "description": "Comfortable running shoes.",
+        "price": 180
+    },
+    {
+        "name": "MacBook Pro 16-inch Variant 75",
+        "category": "Laptops",
+        "description": "Apple's powerful professional laptop.",
+        "price": 2400
+    },
+    {
+        "name": "HP Spectre x360 Variant 76",
+        "category": "Laptops",
+        "description": "Convertible laptop with a touchscreen.",
+        "price": 1200
+    },
+    {
+        "name": "iPhone 13 Variant 77",
+        "category": "Electronics",
+        "description": "Latest Apple smartphone.",
+        "price": 999
+    },
+    {
+        "name": "Dyson V15 Detect Variant 78",
+        "category": "Home Appliances",
+        "description": "Powerful cordless vacuum cleaner.",
+        "price": 750
+    },
+    {
+        "name": "Google Pixel 7 Variant 79",
+        "category": "Electronics",
+        "description": "Latest Google flagship phone.",
+        "price": 599
+    },
+    {
+        "name": "TRX Suspension Trainer Variant 80",
+        "category": "Fitness",
+        "description": "Portable home gym system.",
+        "price": 160
+    },
+    {
+        "name": "Dyson V15 Detect Variant 81",
+        "category": "Home Appliances",
+        "description": "Powerful cordless vacuum cleaner.",
+        "price": 750
+    },
+    {
+        "name": "TRX Suspension Trainer Variant 82",
+        "category": "Fitness",
+        "description": "Portable home gym system.",
+        "price": 160
+    },
+    {
+        "name": "Atomic Habits Variant 83",
+        "category": "Books",
+        "description": "A guide to building good habits and breaking bad ones.",
+        "price": 20
+    },
+    {
+        "name": "Lenovo ThinkPad X1 Variant 84",
+        "category": "Laptops",
+        "description": "Durable and reliable business laptop.",
+        "price": 1800
+    },
+    {
+        "name": "Dyson V15 Detect Variant 85",
+        "category": "Home Appliances",
+        "description": "Powerful cordless vacuum cleaner.",
+        "price": 750
+    },
+    {
+        "name": "MacBook Pro 16-inch Variant 86",
+        "category": "Laptops",
+        "description": "Apple's powerful professional laptop.",
+        "price": 2400
+    },
+    {
+        "name": "Herschel Backpack Variant 87",
+        "category": "Fashion",
+        "description": "Durable and stylish backpack.",
+        "price": 100
+    },
+    {
+        "name": "Lenovo ThinkPad X1 Variant 88",
+        "category": "Laptops",
+        "description": "Durable and reliable business laptop.",
+        "price": 1800
+    },
+    {
+        "name": "Women's Summer Dress Variant 89",
+        "category": "Fashion",
+        "description": "Light and breathable summer wear.",
+        "price": 60
+    },
+    {
+        "name": "HP Spectre x360 Variant 90",
+        "category": "Laptops",
+        "description": "Convertible laptop with a touchscreen.",
+        "price": 1200
+    },
+    {
+        "name": "Herschel Backpack Variant 91",
+        "category": "Fashion",
+        "description": "Durable and stylish backpack.",
+        "price": 100
+    },
+    {
+        "name": "MacBook Pro 16-inch Variant 92",
+        "category": "Laptops",
+        "description": "Apple's powerful professional laptop.",
+        "price": 2400
+    },
+    {
+        "name": "The Great Gatsby Variant 93",
+        "category": "Books",
+        "description": "Classic novel by F. Scott Fitzgerald.",
+        "price": 15
+    },
+    {
+        "name": "Dyson V15 Detect Variant 94",
+        "category": "Home Appliances",
+        "description": "Powerful cordless vacuum cleaner.",
+        "price": 750
+    },
+    {
+        "name": "iPhone 13 Variant 95",
+        "category": "Electronics",
+        "description": "Latest Apple smartphone.",
+        "price": 999
+    },
+    {
+        "name": "Samsung Galaxy S22 Variant 96",
+        "category": "Electronics",
+        "description": "Newest Samsung phone.",
+        "price": 899
+    },
+    {
+        "name": "Samsung Family Hub Refrigerator Variant 97",
+        "category": "Home Appliances",
+        "description": "Smart fridge with touchscreen display.",
+        "price": 2800
+    },
+    {
+        "name": "Samsung Family Hub Refrigerator Variant 98",
+        "category": "Home Appliances",
+        "description": "Smart fridge with touchscreen display.",
+        "price": 2800
+    },
+    {
+        "name": "Herschel Backpack Variant 99",
+        "category": "Fashion",
+        "description": "Durable and stylish backpack.",
+        "price": 100
+    },
+    {
+        "name": "Philips Air Fryer XXL Variant 100",
+        "category": "Home Appliances",
+        "description": "Large capacity air fryer.",
+        "price": 300
+    }
+]
