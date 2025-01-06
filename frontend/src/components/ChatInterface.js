@@ -9,7 +9,7 @@ const ChatInterface = () => {
   useEffect(() => {
     const fetchChatHistory = async () => {
       try {
-        const response = await fetch(`http://localhost:5000/api/chat/history/${userId}`);
+        const response = await fetch(`https://chatbot-main-60na.onrender.com/api/chat/history/${userId}`);
         const chatHistory = await response.json();
 
         const formattedMessages = chatHistory.flatMap((msg) => {
@@ -59,7 +59,7 @@ const ChatInterface = () => {
     e.target.elements.message.value = "";
 
     try {
-      const response = await fetch("http://localhost:5000/api/chat/message", {
+      const response = await fetch("https://chatbot-main-60na.onrender.com/api/chat/message", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ userMessage, userId }),
